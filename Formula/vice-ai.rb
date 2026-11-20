@@ -11,8 +11,8 @@ class ViceAi < Formula
 
   desc "Zero-UI ambient memory for your notes"
   homepage "https://github.com/niklas-jacobsen/vice"
-  url "https://files.pythonhosted.org/packages/source/v/vice-ai/vice_ai-0.1.0.tar.gz"
-  sha256 "035fe159c80613c52304be9c249674d66fd0b33217d9b7e752c3b16071f3a935"
+  url "https://files.pythonhosted.org/packages/source/v/vice-ai/vice_ai-0.1.1.tar.gz"
+  sha256 "f10943883d4cbf41b6be8527172eb2cfb57b78aa4f4ac036a00d8b26b5e80eb0"
   license "MIT"
 
   depends_on :macos
